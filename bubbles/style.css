@@ -27,7 +27,7 @@ treeview.view {
 
 window {
     background-color: @bg;
-    background-image: url("./styles/new/background.png");
+    background-image: url("./styles/bubbles/background.png");
     background-size: cover;
 
 }
