@@ -16,7 +16,7 @@ You can choose between 3 icon packages (material-dark, colorized and z-bolt), de
 To change the icons here is an example:
 - connect with SSH
 - type:
-`sudo cp -r /home/pi/KlipperScreen/styles/material-dark/images/ /home/pi/KlipperScreen/styles/mainsail/`
+`sudo cp -r /home/pi/KlipperScreen/styles/material-dark/images/ /home/pi/KlipperScreen/styles/bubbles/`
 
 | material-dark                                                                                                                 | colorized                                                                                                                 | z-bolt                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
